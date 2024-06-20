@@ -34,8 +34,8 @@
     
     Azdo Pull Requests: Org Url      = ссылка на коллекцию
     Azdo Pull Requests: Project Name = название проекта
-    Azdo Pull Requests: Pat Token = создать токен в tfs 
-    Azdo Pull Requests: Remotes = origin
+    Azdo Pull Requests: Pat Token    = создать токен в tfs 
+    Azdo Pull Requests: Remotes      = origin
 
     Как создать токен:
     ссылка на коллецию + /_usersSettings/tokens -> новый маркер -> вводим любое удобно вам имя ->
