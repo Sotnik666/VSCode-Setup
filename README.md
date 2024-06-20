@@ -3,11 +3,11 @@
 
 # Необходимые ссылки
 <table>
-<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></li>
 <h3>Плагины</h3>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=ankitbko.vscode-pull-request-azdo">Azure Devops Pull Requests</a> - работа с PR внутри VSCode просмотр/редактирование/утверждение/отмена</li>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph">Git Graph</a> - просмотр взаимодействия с модулем, кто что создал, из каких веток куда смержил</li>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">GitLens — Git supercharged</a> - большой пак модулей для VSCode, много функционала, тонкая настройка</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ankitbko.vscode-pull-request-azdo" target="_blank">Azure Devops Pull Requests</a> - работа с PR внутри VSCode просмотр/редактирование/утверждение/отмена</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph" target="_blank">Git Graph</a> - просмотр взаимодействия с модулем, кто что создал, из каких веток куда смержил</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" target="_blank">GitLens — Git supercharged</a> - большой пак модулей для VSCode, много функционала, тонкая настройка</li>
 </table>
 
 # Настройка
